@@ -208,6 +208,13 @@ export default function Home() {
                         <span className="text-[24px] tracking-[0.05em] leading-[44px] text-center font-normal">
                             11.25 - HYPER WEB 2023 개최
                         </span>
+                    </div>
+                    <div className="flex justify-start">
+                        <span className="text-[32px] font-extrabold tracking-[0.05em]">
+                            2024년
+                        </span>
+                    </div>
+                    <div className="flex justify-start flex-col">
                         <span className="text-[24px] tracking-[0.05em] leading-[44px] text-center font-normal">
                             08.13 - HYPER APP 2024 개최
                         </span>
